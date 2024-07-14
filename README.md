@@ -1,13 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!👋&animation=fadeIn&type=waving%22"/>
+  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hNzRla2M3cXphODl4bGNjY3RhY25wZTFkZnFrYWRvZ291MHFiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif"/>
   <br>
   <p align='center'>
    <a href="https://www.linkedin.com/in/rakesh-yadav-556724118/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/Yads1809"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
-  <br>
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hNzRla2M3cXphODl4bGNjY3RhY25wZTFkZnFrYWRvZ291MHFiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif" align='center'>
- </p>
+  <br>  
 </p>
 
 - 👋 Hi, I’m @RakeshYads
