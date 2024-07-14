@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving%22"/>
+  <br>
+  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hNzRla2M3cXphODl4bGNjY3RhY25wZTFkZnFrYWRvZ291MHFiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif"/>
 </p>
 
 - 👋 Hi, I’m @RakeshYads
