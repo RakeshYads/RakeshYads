@@ -6,8 +6,8 @@
 <a href="https://x.com/Yads1809"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
   <br>
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hNzRla2M3cXphODl4bGNjY3RhY25wZTFkZnFrYWRvZ291MHFiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif"/>
-</p>
+  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hNzRla2M3cXphODl4bGNjY3RhY25wZTFkZnFrYWRvZ291MHFiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif" align='center'>
+ </p>
 </p>
 
 - 👋 Hi, I’m @RakeshYads
