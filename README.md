@@ -8,7 +8,7 @@
  </p>
   <br>  
 </p>
-
+___
 - 👋 Hi, I’m @RakeshYads
 - 👨‍💻 I'm PeopleSoft Application Developer.
 - 👀 I’m interested in Data Science.
@@ -16,6 +16,7 @@
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me? You can reach me in [LinkedIn](https://www.linkedin.com/in/rakesh-yadav-556724118/), [Twitter](https://x.com/Yads1809)
 
+___
 ### - Languages and Tools...
 
 <p align="left">
@@ -31,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="45" height="45">
 </p>
+
+___
 
  <p align="center">
   <h4> Stats & Activity </h4>
