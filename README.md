@@ -11,7 +11,7 @@
 
 ___
 
-- 👋 Hi, I’m @RakeshYads
+- 👋 Hi, I’m Rakesh Yadav
 - 👨‍💻 I'm PeopleSoft Application Developer.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning core concepts of Statistics, Python, ML, DL, Tableau.
